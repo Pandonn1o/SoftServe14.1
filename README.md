@@ -12,4 +12,4 @@ before subscription
   
 Then subscribe and console log all emitted values, and log "Observer got a complete notification" to the console on completion.
 
-<img src='./dev-data/data-structure.png' width=400>
+<img src='./dev-data/data-structure.PNG' width=400>
