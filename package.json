@@ -1,0 +1,24 @@
+{
+  "name": "rxjs-basics-solution",
+  "version": "1.0.0",
+  "description": "rxjs basics solution",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest ",
+    "start": "node main"
+  },
+  "author": "natalya revutska",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.8.2",
+    "xhr2": "^0.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "transformIgnorePatterns": [
+      "node_modules/(?!(spacetime)/)"
+    ]
+  }
+}
